@@ -23,7 +23,7 @@ while True do
   break 
 avg = sum / 10.0
 print min, max, avg
-output
+#### output
 
 Enter 10 integers between 1 and 100
 2
